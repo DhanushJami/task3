@@ -55,3 +55,6 @@ task3/
 ├── static/                # (Optional) Folder for static files like CSS or JavaScript
 ├── screenshots/           # (Optional) Folder for storing screenshots of UI and outputs
 └── README.md              # Project documentation (this file)
+### output
+![Image](https://github.com/user-attachments/assets/8b71e1dc-8e7f-4736-a4a5-67da808b0900)
+
