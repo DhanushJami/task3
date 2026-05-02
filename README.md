@@ -3,12 +3,8 @@
 
 ## ✅ Internship Project – Full Data Science Pipeline
 
-- **Company**: CodTech IT Solutions  
 - **Name**: Jami Venkata Dhanush  
-- **Intern ID**: CT06DL1263  
 - **Domain**: Data Science  
-- **Duration**: 6 Weeks  
-- **Mentor**: Neela Santhosh  
 
 ---
 
